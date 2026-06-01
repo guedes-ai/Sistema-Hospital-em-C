@@ -1,6 +1,6 @@
-# 🏥 Sistema Hospitalar em Linguagem C
+# Sistema Hospitalar em Linguagem C
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 O **Sistema Hospitalar** é uma aplicação desenvolvida em **linguagem C** com o objetivo de simular o gerenciamento básico de pacientes em um ambiente hospitalar.
 
@@ -23,7 +23,7 @@ Além das funcionalidades principais, foram implementadas melhorias como:
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 O principal objetivo do projeto é simular o funcionamento de um sistema hospitalar capaz de organizar pacientes de forma eficiente utilizando diferentes estruturas de dados.
 
@@ -41,7 +41,7 @@ O principal objetivo do projeto é simular o funcionamento de um sistema hospita
 
 ---
 
-# 🛠 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 * Linguagem C
 * Visual Studio Code
@@ -62,7 +62,7 @@ O principal objetivo do projeto é simular o funcionamento de um sistema hospita
 
 ---
 
-# 🔍 Ferramentas de Qualidade
+# Ferramentas de Qualidade
 
 * CppCheck (Análise Estática)
 * GCC Warnings
@@ -70,7 +70,7 @@ O principal objetivo do projeto é simular o funcionamento de um sistema hospita
 
 ---
 
-# 📁 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 SistemaHospitalar/
@@ -86,7 +86,7 @@ SistemaHospitalar/
 
 ---
 
-# 📄 Arquivos do Projeto
+# Arquivos do Projeto
 
 ## main.c
 
@@ -141,9 +141,9 @@ Módulo responsável pelos testes de desempenho.
 
 ---
 
-# 📚 Estruturas de Dados Utilizadas
+# Estruturas de Dados Utilizadas
 
-## 🚨 Pilha (Emergência)
+## Pilha (Emergência)
 
 Pacientes críticos são armazenados em uma pilha.
 
@@ -159,7 +159,7 @@ pilha[++topo] = paciente;
 
 ---
 
-## 👨‍⚕️ Fila (Consultas)
+## Fila (Consultas)
 
 Utilizada para consultas médicas.
 
@@ -171,7 +171,7 @@ Utilizada para consultas médicas.
 
 ---
 
-## 🧪 Fila Circular (Exames)
+## Fila Circular (Exames)
 
 Utilizada para exames laboratoriais e complementares.
 
@@ -183,7 +183,7 @@ Utilizada para exames laboratoriais e complementares.
 
 ---
 
-# ⚙️ Funcionamento do Sistema
+# Funcionamento do Sistema
 
 ## Cadastro de Pacientes
 
@@ -245,7 +245,7 @@ São registrados:
 
 ---
 
-# 🕒 Controle Temporal
+# Controle Temporal
 
 Cada paciente possui registros de:
 
@@ -257,7 +257,7 @@ Isso permite acompanhar todo o histórico de movimentação dentro do hospital.
 
 ---
 
-# 📊 Relatórios
+# Relatórios
 
 O sistema possibilita visualizar:
 
@@ -285,7 +285,7 @@ Após as correções, o sistema apresentou maior estabilidade e confiabilidade.
 
 ---
 
-# 🔐 Segurança Implementada
+# Segurança Implementada
 
 ## Controle de Buffer
 
@@ -297,7 +297,7 @@ Essa abordagem evita estouro de memória causado pela inserção de textos maior
 
 ---
 
-# 🚀 Benchmark e Desempenho
+# Benchmark e Desempenho
 
 O sistema possui um módulo específico para testes de desempenho.
 
@@ -317,7 +317,7 @@ Os resultados demonstraram desempenho consistente mesmo sob grande quantidade de
 
 ---
 
-# ⚠️ Problemas Encontrados
+# Problemas Encontrados
 
 ## Configuração do GCC
 
@@ -370,7 +370,7 @@ if (p.tipo_atendimento == 1)
 
 ---
 
-# ▶️ Como Compilar e Executar
+# Como Compilar e Executar
 
 ```bash
 gcc main.c hospital.c benchmark.c -o hospital
@@ -497,7 +497,7 @@ Como as operações testadas possuem complexidade O(1), o tempo de execução pe
 
 --- 
 
-# ✅ Conclusão
+# Conclusão
 
 O desenvolvimento do Sistema Hospitalar permitiu aplicar, na prática, diversos conceitos fundamentais da programação em linguagem C.
 
