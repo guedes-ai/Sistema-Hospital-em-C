@@ -508,7 +508,7 @@ Durante o projeto foram utilizados conhecimentos relacionados a:
 * Modularização de software;
 * Controle temporal;
 * Análise estática;
-* Avaliação de desempenho.
+* Avaliação de desempenho
 
 As melhorias implementadas tornaram o sistema mais robusto, seguro e próximo de um ambiente hospitalar real, contribuindo significativamente para o aprimoramento da lógica de programação, resolução de problemas e desenvolvimento de software utilizando boas práticas da Engenharia de Software.
 
