@@ -78,8 +78,7 @@ SistemaHospitalar/
 ├── main.c
 ├── hospital.c
 ├── hospital.h
-├── benchmark.c
-├── benchmark.h
+├── benchmark_windows.c
 ├── pacientes.txt
 └── README.md
 ```
