@@ -407,13 +407,13 @@ Após a utilização da ferramenta CppCheck para análise de erros foi possível
 
 **Mensagem:**
 
-PRINT 1 AQUI 
+<img width="886" height="59" alt="WhatsApp Image 2026-05-31 at 3 22 57 PM" src="https://github.com/user-attachments/assets/c7d84683-4252-43aa-8b92-9a7cf5da9213" />
 
 Inserção de lixo de memória na pilha, o que pode fazer com que o programa tenha um comportamento inesperado ou feche sozinho.
 
 ### 2. Alerta de Segurança
 
-PRINT 2 AQUI 
+<img width="886" height="75" alt="WhatsApp Image 2026-05-31 at 3 23 05 PM" src="https://github.com/user-attachments/assets/b86b4c3a-3d54-499f-8119-fcd084afcabb" />
 
 O comando do scanf aceita qualquer tamanho de nome neste caso, porém na struct ele foi definido com um tamanho de 50, o que irá causar um overflow e a quebra do programa.
 
