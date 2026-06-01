@@ -390,21 +390,6 @@ hospital.exe
 
 ---
 
-# ✅ Conclusão
-
-O desenvolvimento do Sistema Hospitalar permitiu aplicar, na prática, diversos conceitos fundamentais da programação em linguagem C.
-
-Durante o projeto foram utilizados conhecimentos relacionados a:
-
-* Estruturas de dados;
-* Manipulação de memória;
-* Modularização de software;
-* Controle temporal;
-* Análise estática;
-* Avaliação de desempenho.
-
-As melhorias implementadas tornaram o sistema mais robusto, seguro e próximo de um ambiente hospitalar real, contribuindo significativamente para o aprimoramento da lógica de programação, resolução de problemas e desenvolvimento de software utilizando boas práticas da Engenharia de Software.
-
 # Análise de Estresse e Detecção de Erros
 
 ## Análise Estática com CppCheck
@@ -509,4 +494,21 @@ Os resultados demonstram que as três estruturas apresentaram desempenho semelha
 Cada estrutura processou 1 milhão de operações em aproximadamente 2 segundos. Considerando a execução completa do benchmark, foram realizadas 3 milhões de operações distribuídas entre os três testes em cerca de 5,8 segundos.
 
 Como as operações testadas possuem complexidade O(1), o tempo de execução permaneceu estável mesmo com uma grande quantidade de operações, demonstrando a eficiência das estruturas implementadas no projeto.
+
+--- 
+
+# ✅ Conclusão
+
+O desenvolvimento do Sistema Hospitalar permitiu aplicar, na prática, diversos conceitos fundamentais da programação em linguagem C.
+
+Durante o projeto foram utilizados conhecimentos relacionados a:
+
+* Estruturas de dados;
+* Manipulação de memória;
+* Modularização de software;
+* Controle temporal;
+* Análise estática;
+* Avaliação de desempenho.
+
+As melhorias implementadas tornaram o sistema mais robusto, seguro e próximo de um ambiente hospitalar real, contribuindo significativamente para o aprimoramento da lógica de programação, resolução de problemas e desenvolvimento de software utilizando boas práticas da Engenharia de Software.
 
